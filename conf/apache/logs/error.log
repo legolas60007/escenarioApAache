@@ -1,0 +1,336 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 25 20:03:10.388966 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Mon Oct 25 20:03:10.389036 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Oct 25 20:09:48.338681 2021] [autoindex:error] [pid 20] [client 192.168.0.24:58381] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 08:35:08.330564 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 08:35:09.961927 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 08:35:09.961977 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 08:38:27.444608 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 08:38:40.787167 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 08:38:40.787232 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 08:44:47.707324 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 08:59:32.109290 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 08:59:32.109345 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 09:03:03.149818 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 10:02:43.572103 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 10:02:43.602735 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 10:04:08.494227 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 10:05:56.973962 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 10:05:56.974194 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 10:06:55.204106 2021] [autoindex:error] [pid 20] [client 192.168.28.106:53226] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 11:05:35.911014 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 11:41:16.924461 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 11:41:16.948685 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 11:42:54.414628 2021] [autoindex:error] [pid 17] [client 192.168.28.109:33430] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 11:43:13.275755 2021] [authn_file:error] [pid 18] (2)No such file or directory: [client 192.168.28.109:33432] AH01620: Could not open password file: /etc/apache2/etc/apache2/sauron
+[Tue Oct 26 11:44:05.319848 2021] [authn_file:error] [pid 19] (2)No such file or directory: [client 192.168.28.109:33434] AH01620: Could not open password file: /etc/apache2/etc/apache2/sauron
+[Tue Oct 26 11:44:42.970482 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 11:47:00.927185 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 11:47:00.927237 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 11:47:06.099334 2021] [auth_basic:error] [pid 17] [client 192.168.28.109:33436] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:47:10.628768 2021] [auth_basic:error] [pid 17] [client 192.168.28.109:33436] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:47:17.707709 2021] [auth_basic:error] [pid 18] [client 192.168.28.109:33438] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:47:27.044452 2021] [auth_basic:error] [pid 19] [client 192.168.28.109:33440] AH01618: user bilbo  not found: /blog
+[Tue Oct 26 11:47:27.801504 2021] [auth_basic:error] [pid 19] [client 192.168.28.109:33440] AH01618: user  not found: /blog
+[Tue Oct 26 11:47:28.000992 2021] [auth_basic:error] [pid 19] [client 192.168.28.109:33440] AH01618: user  not found: /blog
+[Tue Oct 26 11:47:49.742502 2021] [auth_basic:error] [pid 21] [client 192.168.28.109:33444] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:47:54.997285 2021] [auth_basic:error] [pid 22] [client 192.168.28.109:33446] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:47:59.387219 2021] [auth_basic:error] [pid 22] [client 192.168.28.109:33446] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:51:41.201031 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 11:52:34.726642 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 11:52:34.726702 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 11:52:46.709154 2021] [auth_basic:error] [pid 17] [client 192.168.28.109:33452] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:52:54.702667 2021] [auth_basic:error] [pid 18] [client 192.168.28.109:33454] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:53:17.551102 2021] [auth_basic:error] [pid 19] [client 192.168.28.109:33456] AH01618: user frodo not found: /blog
+[Tue Oct 26 11:53:26.499659 2021] [auth_basic:error] [pid 20] [client 192.168.28.109:33458] AH01618: user bilbo  not found: /blog
+[Tue Oct 26 11:54:04.862822 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 11:54:06.459519 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 11:54:06.459573 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 11:54:25.134522 2021] [autoindex:error] [pid 17] [client 192.168.28.109:33462] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 11:54:27.006959 2021] [autoindex:error] [pid 17] [client 192.168.28.109:33462] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 11:55:27.288289 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33464] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 11:56:25.128907 2021] [autoindex:error] [pid 20] [client 192.168.28.109:33468] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 11:58:23.023933 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 11:59:04.013378 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 11:59:04.013433 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 11:59:08.264378 2021] [auth_basic:error] [pid 18] [client 192.168.28.109:33476] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:59:12.118956 2021] [auth_basic:error] [pid 18] [client 192.168.28.109:33476] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:59:19.592411 2021] [auth_basic:error] [pid 19] [client 192.168.28.109:33478] AH01618: user bilbo not found: /blog
+[Tue Oct 26 11:59:24.726730 2021] [auth_basic:error] [pid 20] [client 192.168.28.109:33480] AH01618: user bilbo bolson not found: /blog
+[Tue Oct 26 12:00:26.724072 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:00:28.287367 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:00:28.287439 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:01:26.817282 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:01:28.548320 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:01:28.548386 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:01:37.382976 2021] [autoindex:error] [pid 17] [client 192.168.28.109:33486] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:01:45.182425 2021] [auth_basic:error] [pid 18] [client 192.168.28.109:33488] AH01618: user bilbo not found: /blog
+[Tue Oct 26 12:01:52.774860 2021] [auth_basic:error] [pid 19] [client 192.168.28.109:33490] AH01618: user bilbo bolson not found: /blog
+[Tue Oct 26 12:03:25.782735 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:06:22.787167 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:06:22.787236 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:06:28.646443 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:06:34.147291 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:06:34.147359 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:06:40.842798 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33494] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:06:43.296458 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33494] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:06:44.024469 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33494] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:06:44.195167 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33494] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:06:44.362166 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33494] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:06:44.511957 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33494] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:06:52.403774 2021] [autoindex:error] [pid 20] [client 192.168.28.109:33496] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:06:56.477530 2021] [autoindex:error] [pid 20] [client 192.168.28.109:33496] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:07:14.441605 2021] [autoindex:error] [pid 19] [client 192.168.28.109:33500] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:07:17.379165 2021] [autoindex:error] [pid 19] [client 192.168.28.109:33500] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:08:08.542267 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:08:10.324989 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:08:10.325053 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:08:15.410580 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33504] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:08:16.848242 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33504] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:08:18.848709 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33504] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:08:46.942193 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:08:48.796151 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:08:48.796230 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:13:19.934057 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:14:18.200946 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:14:18.201026 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:14:27.625848 2021] [core:error] [pid 17] AH00554: Access to file /etc/apache2/sauron denied by server: not a regular file
+[Tue Oct 26 12:14:27.625888 2021] [authn_file:error] [pid 17] (9)Bad file descriptor: [client 192.168.28.109:33510] AH01620: Could not open password file: /etc/apache2/sauron
+[Tue Oct 26 12:15:37.363958 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:15:39.125938 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:15:39.126011 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:15:44.324821 2021] [core:error] [pid 17] AH00554: Access to file /etc/apache2/sauron denied by server: not a regular file
+[Tue Oct 26 12:15:44.324890 2021] [authn_file:error] [pid 17] (9)Bad file descriptor: [client 192.168.28.109:33514] AH01620: Could not open password file: /etc/apache2/sauron
+[Tue Oct 26 12:16:00.113448 2021] [core:error] [pid 19] AH00554: Access to file /etc/apache2/sauron denied by server: not a regular file
+[Tue Oct 26 12:16:00.113502 2021] [authn_file:error] [pid 19] (9)Bad file descriptor: [client 192.168.28.109:33518] AH01620: Could not open password file: /etc/apache2/sauron
+[Tue Oct 26 12:16:51.978316 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:16:54.992708 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:16:54.992767 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:16:57.024910 2021] [core:error] [pid 17] AH00554: Access to file /etc/apache2/sauron denied by server: not a regular file
+[Tue Oct 26 12:16:57.024965 2021] [authn_file:error] [pid 17] (9)Bad file descriptor: [client 192.168.28.109:33520] AH01620: Could not open password file: /etc/apache2/sauron
+[Tue Oct 26 12:16:58.695362 2021] [core:error] [pid 18] AH00554: Access to file /etc/apache2/sauron denied by server: not a regular file
+[Tue Oct 26 12:16:58.695418 2021] [authn_file:error] [pid 18] (9)Bad file descriptor: [client 192.168.28.109:33522] AH01620: Could not open password file: /etc/apache2/sauron
+[Tue Oct 26 12:17:00.940573 2021] [core:error] [pid 19] AH00554: Access to file /etc/apache2/sauron denied by server: not a regular file
+[Tue Oct 26 12:17:00.940628 2021] [authn_file:error] [pid 19] (9)Bad file descriptor: [client 192.168.28.109:33524] AH01620: Could not open password file: /etc/apache2/sauron
+[Tue Oct 26 12:17:02.894342 2021] [core:error] [pid 20] AH00554: Access to file /etc/apache2/sauron denied by server: not a regular file
+[Tue Oct 26 12:17:02.894401 2021] [authn_file:error] [pid 20] (9)Bad file descriptor: [client 192.168.28.109:33526] AH01620: Could not open password file: /etc/apache2/sauron
+[Tue Oct 26 12:17:28.845274 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:17:30.619008 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:17:30.619064 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:18:19.460812 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:18:22.641515 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:18:22.641603 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:19:30.554618 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:19:32.163644 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:19:32.163710 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:19:37.527313 2021] [autoindex:error] [pid 18] [client 192.168.28.109:33534] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:19:48.024871 2021] [autoindex:error] [pid 19] [client 192.168.28.109:33536] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:21:17.910006 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:21:21.542522 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:21:21.542578 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:22:31.633943 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:22:34.042147 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:22:34.042209 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:22:44.294756 2021] [autoindex:error] [pid 19] [client 192.168.28.109:33540] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:22:47.634941 2021] [autoindex:error] [pid 19] [client 192.168.28.109:33540] AH01276: Cannot serve directory /var/www/html/blog/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Tue Oct 26 12:24:15.082373 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:28:55.802249 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:28:55.802313 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:30:26.379617 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:30:27.903381 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:30:27.903472 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:30:43.127986 2021] [auth_basic:error] [pid 18] [client 192.168.28.109:33552] AH01618: user bilbo not found: /blog/
+[Tue Oct 26 12:30:46.886565 2021] [auth_basic:error] [pid 18] [client 192.168.28.109:33552] AH01618: user bilbo not found: /blog/
+[Tue Oct 26 12:30:56.337110 2021] [auth_basic:error] [pid 19] [client 192.168.28.109:33554] AH01617: user bolson: authentication failure for "/blog/": Password Mismatch
+[Tue Oct 26 12:31:34.588894 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:31:36.263682 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:31:36.263743 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:31:52.724036 2021] [auth_basic:error] [pid 18] [client 192.168.28.109:33558] AH01618: user bilbo not found: /server-status
+[Tue Oct 26 12:31:56.902118 2021] [auth_basic:error] [pid 18] [client 192.168.28.109:33558] AH01618: user bilbo not found: /server-status
+[Tue Oct 26 12:33:02.518127 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:33:04.039434 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:33:04.039488 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:33:11.729804 2021] [authn_file:error] [pid 17] (2)No such file or directory: [client 192.168.28.109:33560] AH01620: Could not open password file: /etc/apache2/sauron1
+[Tue Oct 26 12:34:34.833359 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:34:36.661334 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:34:36.661396 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:34:42.736826 2021] [authn_file:error] [pid 17] (2)No such file or directory: [client 192.168.28.109:33572] AH01620: Could not open password file: /etc/apache2/sauron1
+[Tue Oct 26 12:34:49.167996 2021] [authn_file:error] [pid 18] (2)No such file or directory: [client 192.168.28.109:33574] AH01620: Could not open password file: /etc/apache2/sauron1
+[Tue Oct 26 12:36:07.900221 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:36:09.487151 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:36:09.487258 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:41:07.716741 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:41:41.607729 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:41:41.607814 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 12:42:48.266086 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 12:42:49.864091 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 12:42:49.864169 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 19:40:34.487379 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 19:45:05.076836 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 19:45:05.076904 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 19:46:28.939217 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 19:50:49.012718 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 19:50:49.012792 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 19:52:12.730006 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 19:52:14.418670 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 19:52:14.418738 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 19:55:07.086939 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 19:55:08.783103 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 19:55:08.783177 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 19:55:41.222581 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 19:57:12.235831 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 19:57:12.236153 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 19:57:57.140198 2021] [authz_core:error] [pid 21] [client 192.168.0.24:55402] AH01630: client denied by server configuration: /var/www/html/server-info
+[Tue Oct 26 19:59:11.038607 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 19:59:12.746356 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 19:59:12.746406 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 19:59:42.315594 2021] [authz_core:error] [pid 17] [client 192.168.0.24:63942] AH01630: client denied by server configuration: /var/www/html/server-info
+[Tue Oct 26 20:05:16.584091 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 20:05:18.115685 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 20:05:18.115876 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 20:05:51.863252 2021] [auth_basic:error] [pid 18] [client 192.168.0.36:42612] AH01618: user bilbo not found: /blog
+[Tue Oct 26 20:05:57.484658 2021] [auth_basic:error] [pid 19] [client 192.168.0.36:42614] AH01618: user bilbo not found: /blog
+[Tue Oct 26 20:06:02.753778 2021] [auth_basic:error] [pid 20] [client 192.168.0.36:42616] AH01618: user bilbo bolson not found: /blog
+[Tue Oct 26 20:06:44.885243 2021] [auth_basic:error] [pid 21] [client 192.168.0.36:42620] AH01617: user bolson: authentication failure for "/blog": Password Mismatch
+[Tue Oct 26 20:08:00.123062 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 20:08:01.679886 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 20:08:01.679951 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 20:08:10.488095 2021] [auth_digest:error] [pid 18] [client 192.168.0.36:42624] AH01790: user `bilbo' in realm `nonononono' not found: /blog
+[Tue Oct 26 20:08:35.645299 2021] [auth_digest:error] [pid 20] [client 192.168.0.36:42628] AH01790: user `bolson' in realm `nonononono' not found: /blog
+[Tue Oct 26 20:09:59.655674 2021] [auth_digest:error] [pid 22] [client 192.168.0.36:42632] AH01790: user `bolson' in realm `nonononono' not found: /blog
+[Tue Oct 26 20:10:14.489059 2021] [auth_digest:error] [pid 23] [client 192.168.0.36:42634] AH01790: user `bilbo' in realm `nonononono' not found: /blog
+[Tue Oct 26 20:10:18.341629 2021] [auth_digest:error] [pid 23] [client 192.168.0.36:42634] AH01790: user `bilbo' in realm `nonononono' not found: /blog
+[Tue Oct 26 20:11:04.316217 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 20:11:05.988338 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 20:11:05.988427 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 20:11:12.917922 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.0.36:42640] AH01622: Could not open password file: /etc/apache2/sauron
+[Tue Oct 26 20:12:45.649745 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 20:12:47.232175 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 20:12:47.232292 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 20:12:49.406537 2021] [auth_basic:error] [pid 18] [client 192.168.0.36:42644] AH01614: client used wrong authentication scheme: /blog
+[Tue Oct 26 20:12:53.465868 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.0.36:42644] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:12:56.864441 2021] [authn_file:error] [pid 19] (13)Permission denied: [client 192.168.0.36:42646] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:12:57.114224 2021] [authn_file:error] [pid 20] (13)Permission denied: [client 192.168.0.36:42648] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:12:57.304405 2021] [authn_file:error] [pid 21] (13)Permission denied: [client 192.168.0.36:42650] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:12:57.474006 2021] [authn_file:error] [pid 22] (13)Permission denied: [client 192.168.0.36:42652] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:12:57.632599 2021] [authn_file:error] [pid 23] (13)Permission denied: [client 192.168.0.36:42654] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:12:57.785928 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.0.36:42656] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:12:57.941664 2021] [authn_file:error] [pid 19] (13)Permission denied: [client 192.168.0.36:42658] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:12:58.079014 2021] [authn_file:error] [pid 20] (13)Permission denied: [client 192.168.0.36:42660] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:12:58.221932 2021] [authn_file:error] [pid 21] (13)Permission denied: [client 192.168.0.36:42662] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:12:58.400913 2021] [authn_file:error] [pid 22] (13)Permission denied: [client 192.168.0.36:42664] AH01620: Could not open password file: /etc/apache2/gormiti
+[Tue Oct 26 20:13:48.366309 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 26 20:13:50.013535 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Tue Oct 26 20:13:50.013598 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Oct 26 20:13:50.213797 2021] [auth_digest:error] [pid 17] [client 192.168.0.36:42666] AH01781: client used wrong authentication scheme `Basic': /blog
+[Tue Oct 26 20:13:54.014751 2021] [authn_file:error] [pid 17] (13)Permission denied: [client 192.168.0.36:42666] AH01622: Could not open password file: /etc/apache2/sauron
+[Wed Oct 27 06:35:15.974750 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 27 06:35:17.655651 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 27 06:35:17.655739 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Oct 27 06:36:06.497078 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 27 06:46:54.566014 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 27 06:46:54.566515 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Oct 27 06:47:22.952382 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.28.106:59116] AH01620: Could not open password file: /etc/apache2/gormiti
+[Wed Oct 27 06:47:23.000907 2021] [authn_file:error] [pid 19] (13)Permission denied: [client 192.168.28.106:59118] AH01620: Could not open password file: /etc/apache2/gormiti
+[Wed Oct 27 06:47:42.444016 2021] [authn_file:error] [pid 20] (13)Permission denied: [client 192.168.28.106:59120] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 06:47:56.856481 2021] [authz_core:error] [pid 21] [client 192.168.28.106:59122] AH01630: client denied by server configuration: /var/www/html/server-info
+[Wed Oct 27 06:48:01.971887 2021] [authn_file:error] [pid 22] (13)Permission denied: [client 192.168.28.106:59128] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 06:49:20.412268 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 27 06:49:22.153344 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 27 06:49:22.153406 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Oct 27 06:49:24.021262 2021] [authn_file:error] [pid 17] (13)Permission denied: [client 192.168.28.106:59154] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 06:49:44.248685 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.28.106:59156] AH01620: Could not open password file: /etc/apache2/gormiti
+[Wed Oct 27 06:49:56.572681 2021] [authn_file:error] [pid 19] (13)Permission denied: [client 192.168.28.106:59158] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 06:50:07.379206 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 27 06:50:57.944511 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 27 06:50:57.944571 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Oct 27 06:51:08.712694 2021] [authn_file:error] [pid 17] (13)Permission denied: [client 192.168.28.106:59164] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 06:51:14.149786 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.28.106:59166] AH01620: Could not open password file: /etc/apache2/gormiti
+[Wed Oct 27 06:51:29.007300 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 27 07:04:37.561800 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 27 07:04:37.561933 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Oct 27 07:04:44.447768 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 27 07:04:46.057817 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 27 07:04:46.057878 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Oct 27 07:05:03.941341 2021] [authn_file:error] [pid 17] (13)Permission denied: [client 192.168.22.168:65127] AH01620: Could not open password file: /etc/apache2/gormiti
+[Wed Oct 27 07:05:04.132144 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.22.168:65134] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/blog
+[Wed Oct 27 07:05:22.909484 2021] [authn_file:error] [pid 19] (13)Permission denied: [client 192.168.22.168:62013] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 07:05:22.997898 2021] [authn_file:error] [pid 20] (13)Permission denied: [client 192.168.22.168:62015] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/server-status
+[Wed Oct 27 07:05:26.251195 2021] [authz_core:error] [pid 21] [client 192.168.22.168:62019] AH01630: client denied by server configuration: /var/www/html/server-info
+[Wed Oct 27 07:05:26.364624 2021] [authn_file:error] [pid 21] (13)Permission denied: [client 192.168.22.168:62019] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/server-info
+[Wed Oct 27 07:05:30.397880 2021] [authn_file:error] [pid 22] (13)Permission denied: [client 192.168.22.168:62023] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 07:05:30.485107 2021] [authn_file:error] [pid 17] (13)Permission denied: [client 192.168.22.168:62024] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/server-status
+[Wed Oct 27 07:08:05.032700 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 27 07:08:06.662845 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/7.4.12 configured -- resuming normal operations
+[Wed Oct 27 07:08:06.662922 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Oct 27 07:08:10.546579 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.22.168:65384] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 07:08:10.647286 2021] [authn_file:error] [pid 19] (13)Permission denied: [client 192.168.22.168:65386] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/server-status
+[Wed Oct 27 07:08:12.870111 2021] [authn_file:error] [pid 20] (13)Permission denied: [client 192.168.22.168:65390] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 07:08:12.968909 2021] [authn_file:error] [pid 21] (13)Permission denied: [client 192.168.22.168:65391] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/server-status
+[Wed Oct 27 07:08:25.010963 2021] [authn_file:error] [pid 22] (13)Permission denied: [client 192.168.22.168:51474] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 07:08:25.097183 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.22.168:51479] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/server-status
+[Wed Oct 27 07:08:34.367530 2021] [auth_digest:error] [pid 19] [client 192.168.22.168:51482] AH01781: client used wrong authentication scheme `Basic': /blog
+[Wed Oct 27 07:08:38.642570 2021] [authn_file:error] [pid 19] (13)Permission denied: [client 192.168.22.168:51482] AH01622: Could not open password file: /etc/apache2/sauron
+[Wed Oct 27 07:08:38.725806 2021] [auth_basic:error] [pid 20] [client 192.168.22.168:51487] AH01614: client used wrong authentication scheme: /favicon.ico, referer: http://192.168.28.106:8181/blog
+[Wed Oct 27 07:08:51.724220 2021] [authn_file:error] [pid 21] (13)Permission denied: [client 192.168.22.168:51488] AH01620: Could not open password file: /etc/apache2/gormiti
+[Wed Oct 27 07:08:51.802207 2021] [authn_file:error] [pid 23] (13)Permission denied: [client 192.168.22.168:51489] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/
+[Wed Oct 27 07:13:34.165755 2021] [authn_file:error] [pid 22] (13)Permission denied: [client 192.168.22.168:60421] AH01620: Could not open password file: /etc/apache2/torin
+[Wed Oct 27 07:13:34.282041 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.22.168:60423] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/server-status
+[Wed Oct 27 07:13:39.117741 2021] [auth_digest:error] [pid 19] [client 192.168.22.168:60428] AH01781: client used wrong authentication scheme `Basic': /blog
+[Wed Oct 27 07:13:43.648784 2021] [authn_file:error] [pid 19] (13)Permission denied: [client 192.168.22.168:60428] AH01622: Could not open password file: /etc/apache2/sauron
+[Wed Oct 27 07:13:43.800675 2021] [auth_basic:error] [pid 20] [client 192.168.22.168:60432] AH01614: client used wrong authentication scheme: /favicon.ico, referer: http://192.168.28.106:8181/blog
+[Wed Oct 27 07:14:48.551782 2021] [authn_file:error] [pid 21] (13)Permission denied: [client 192.168.22.168:58105] AH01620: Could not open password file: /etc/apache2/gormiti
+[Wed Oct 27 07:14:48.707451 2021] [authn_file:error] [pid 23] (13)Permission denied: [client 192.168.22.168:58106] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/
+[Wed Oct 27 07:18:16.258126 2021] [authn_file:error] [pid 22] (13)Permission denied: [client 192.168.22.168:50476] AH01620: Could not open password file: /etc/apache2/gormiti
+[Wed Oct 27 07:18:16.339449 2021] [authn_file:error] [pid 18] (13)Permission denied: [client 192.168.22.168:50477] AH01620: Could not open password file: /etc/apache2/gormiti, referer: http://192.168.28.106:8181/
+[Wed Oct 27 07:18:31.351270 2021] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully

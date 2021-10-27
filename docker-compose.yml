@@ -1,0 +1,13 @@
+version: "3"
+services:
+  servidorweb:
+    build: ./conf
+    ports:
+      - "8181:80"
+    volumes:
+      - ./web:/var/www/html
+      - ./conf/apache/logs:/var/log/apache2
+      - ./conf/sri.asir4all.ss.conf:/etc/apache2/sites-available/000-default.conf
+      - ./conf/torin:/etc/apache2/torin
+      - ./conf/sauron:/etc/apache2/sauron
+      - ./conf/gormiti:/etc/apache2/gormiti
